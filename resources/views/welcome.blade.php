@@ -7,10 +7,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>My React Blog App</title>
-    <!-- Bootstrap Core CSS
-
-    <link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.css">-->
-    <link rel="stylesheet" href="{{asset('css/app.css')}}">
+    <!-- Bootstrap Core CSS-->
+	<link rel="stylesheet" href="{{asset('css/app.css')}}">
+    <link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.css">
+    
 
 </head>
 <body>
